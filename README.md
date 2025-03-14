@@ -1,3 +1,3 @@
-# pt-layered-architecture
+# Order Management System
 
-Demo Project for Layered Architecture
+The Order Management System is a Java-based application designed to efficiently manage clients, products, and orders through a user-friendly graphical interface. It allows users to add, edit, and delete clients and products while facilitating order creation with real-time inventory updates. The system employs an object-oriented design with encapsulated classes, DTOs for data transfer, and optimized data structures like HashMap and ArrayList for efficient retrieval and storage. With built-in filtering, searching, and error handling mechanisms, the application ensures data integrity and smooth operation, offering a reliable solution for order management.
